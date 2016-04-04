@@ -63,4 +63,8 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="spring-security" location="$USER_HOME$/IdeaProjects/GSN-Online/web/WEB-INF/spring-security-3.2.xsd" />
+    <resource url="spring-security-4.0" location="$USER_HOME$/IdeaProjects/GSN-Online/web/WEB-INF/spring-security-4.0.xsd" />
+  </component>
 </application>
