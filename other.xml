@@ -95,6 +95,8 @@
     <option name="ADD_TO_UNIT" value="true" />
   </component>
   <component name="RefactoringSettings">
+    <option name="renameParameterInHierarchy" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
   </component>
 </application>
