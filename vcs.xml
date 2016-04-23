@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com/" />
           <option name="userName" value="supra89kren@ya.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Supra89kren/GSN-Online.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Supra89kren\IdeaProjects" />
